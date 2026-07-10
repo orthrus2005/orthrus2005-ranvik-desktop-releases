@@ -1,0 +1,15 @@
+{
+  "version": "1.0.1",
+  "notes": "Исправления и улучшения",
+  "pub_date": "2026-07-10T20:26:00.657Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaEU3QkFOaisyV2lyTXJVWHpFQzZHV1o5dThCczY4Ry9FN1g4TzgwelR6VTNDd2JlRytOeU5rYjc5U2ttRHVVbm9EL1FkUTR3NUJuL29lMFBaMDZtRDJWaDZTUXQ2c2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzE0NTU2CWZpbGU6UmFudmlrLmFwcC50YXIuZ3oKay83b1U4MHFmTGQ4M2xoWXRHQTVZS2VyRmZUQW0zOVlvYUtRUWF5cDVtT0lpbGFIOTdKYXlpU29MT2VkOFd4K2M2Nm1vWmFKZVViMWUxSEJmRzNpQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/orthrus2005/orthrus2005-ranvik-desktop-releases/main/1.0.1/Ranvik.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaEU3QkFOaisyV3VTZXcvY3hUbzh2ZDVKZG5UZlZia3VhcWFNWk5rSVRDUHJBcnlDQ3RVVm1QVnNvY3VmeEZkcmFJV01CV2ZPTTY1K1RlM0FjRzN3SDR6QmpLZDV5WkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzE1MTA0CWZpbGU6UmFudmlrXzEuMC4xX3g2NC1zZXR1cC5leGUKQlJyVWIzUS85VzhqM1hacmVrNE1pNzFlRHhiSjVlM0NITGRPVFRaeGI3djJkREthM3lRVDYxR3YyelBNa3A1TW81bmFxU0U1a0N3enQwWm5ITVJLRHc9PQo=",
+      "url": "https://raw.githubusercontent.com/orthrus2005/orthrus2005-ranvik-desktop-releases/main/1.0.1/Ranvik_1.0.1_x64-setup.exe"
+    }
+  }
+}
